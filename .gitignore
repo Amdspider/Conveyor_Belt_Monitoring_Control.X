@@ -1,0 +1,23 @@
+# MPLAB X generated build output
+/build/
+/dist/
+/nbproject/private/
+/nbproject/Makefile-genesis.properties
+
+# Compiler and debugger output
+*.o
+*.obj
+*.elf
+*.hex
+*.cof
+*.cod
+*.map
+*.lst
+*.d
+
+# Operating-system/editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.tmp
